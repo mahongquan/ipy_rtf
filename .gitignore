@@ -1,0 +1,17 @@
+*.pdb
+*.dll
+*.db
+*.cache
+*.tlog
+*.force
+Lib/*
+other/*
+GeneratedCode/obj/*
+*.suo
+*.exe
+*.user
+*.msi
+*.zip
+*.tmp
+*.sdps
+

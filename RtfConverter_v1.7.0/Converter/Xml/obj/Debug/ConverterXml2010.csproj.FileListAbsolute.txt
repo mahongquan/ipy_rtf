@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\Itenso.Rtf.Converter.Xml.dll
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\Itenso.Rtf.Converter.Xml.pdb
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Converter\Xml\obj\Debug\ConverterXml2010.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Converter\Xml\obj\Debug\ConverterXml2010.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Converter\Xml\obj\Debug\ConverterXml2010.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Converter\Xml\obj\Debug\Itenso.Rtf.Converter.Xml.dll
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Converter\Xml\obj\Debug\Itenso.Rtf.Converter.Xml.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\RtfWinForms.exe
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\RtfWinForms.pdb
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\RtfWinForms\obj\Debug\RtfWinForms2010.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\RtfWinForms\obj\Debug\Itenso.Solutions.Community.RtfConverter.RtfWinForms.RtfForm.resources
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\RtfWinForms\obj\Debug\RtfWinForms2010.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\RtfWinForms\obj\Debug\RtfWinForms2010.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\RtfWinForms\obj\Debug\RtfWinForms2010.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\RtfWinForms\obj\Debug\RtfWinForms.exe
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\RtfWinForms\obj\Debug\RtfWinForms.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\Itenso.Rtf.Parser.dll
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\Itenso.Rtf.Parser.pdb
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Parser\obj\Debug\Parser2010.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Parser\obj\Debug\Itenso.Rtf.Strings.resources
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Parser\obj\Debug\Parser2010.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Parser\obj\Debug\Parser2010.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Parser\obj\Debug\Parser2010.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Parser\obj\Debug\Itenso.Rtf.Parser.dll
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Parser\obj\Debug\Itenso.Rtf.Parser.pdb

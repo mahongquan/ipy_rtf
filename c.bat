@@ -1,0 +1,1 @@
+ipyc /main:record.py /target:exe

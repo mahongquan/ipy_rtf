@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\Itenso.Sys.dll
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\bin\Debug\Itenso.Sys.pdb
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Sys\obj\Debug\Sys2010.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Sys\obj\Debug\Itenso.Sys.Strings.resources
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Sys\obj\Debug\Sys2010.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Sys\obj\Debug\Sys2010.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Sys\obj\Debug\Sys2010.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Sys\obj\Debug\Itenso.Sys.dll
+C:\Users\Administrator\Desktop\RtfConverter_v1.7.0\Sys\obj\Debug\Itenso.Sys.pdb
